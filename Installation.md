@@ -22,7 +22,7 @@ yum install -y aws-okta
 
 # Linux binaries
 
-(Our Github release page)[https://github.com/segmentio/aws-okta/releases] has binaries.
+[Our Github release page](https://github.com/segmentio/aws-okta/releases) has binaries.
 
 ```
 curl -LOs https://github.com/segmentio/aws-okta/releases/download/${version}/aws-okta-${version}-linux-amd64
@@ -30,7 +30,7 @@ curl -LOs https://github.com/segmentio/aws-okta/releases/download/${version}/aws
 
 # macOS binaries
 
-(Our Github release page)[https://github.com/segmentio/aws-okta/releases] has binaries.
+[Our Github release page](https://github.com/segmentio/aws-okta/releases) has binaries.
 
 ```
 curl -LOs https://github.com/segmentio/aws-okta/releases/download/${version}/aws-okta-${version}-darwin-amd64
