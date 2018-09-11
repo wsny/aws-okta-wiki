@@ -11,6 +11,8 @@ apt-get install -y aws-okta
 
 # Fedora from packagecloud.io
 
+We publish `yum install`able .rpms on packagecloud.io.
+
 **Warning: `curl`ing to `bash` has all the usual caveats.** [packagecloud has more detailed instructions.](https://packagecloud.io/segment/aws-okta/install#bash-rpm)
 
 ```
