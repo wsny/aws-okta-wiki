@@ -30,8 +30,8 @@ curl -LOs https://github.com/segmentio/aws-okta/releases/download/${version}/aws
 
 # macOS binaries
 
-[Our Github release page](https://github.com/segmentio/aws-okta/releases) has binaries.
+Through the magic of open source software, [homebrew has aws-okta bottles](https://formulae.brew.sh/formula/aws-okta):
 
 ```
-curl -LOs https://github.com/segmentio/aws-okta/releases/download/${version}/aws-okta-${version}-darwin-amd64
+brew install aws-okta
 ```
