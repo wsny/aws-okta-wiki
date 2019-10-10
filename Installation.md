@@ -1,4 +1,5 @@
 # Debian/Ubuntu from packagecloud.io
+**PREQUISITE:** Debian/Ubuntu require *kwalletmanager* for saving credentials to a keymanager
 
 We publish `apt-get install`able .debs on packagecloud.io.
 
