@@ -21,6 +21,15 @@ curl -s https://packagecloud.io/install/repositories/segment/aws-okta/script.rpm
 yum install -y aws-okta
 ```
 
+# ArchLinux on AUR
+
+There is a package in the AUR that you can install manually or with any AUR helper. Example below
+using `yay`
+
+```
+yay -S aws-okta-bin
+```
+
 # Linux binaries
 
 [Our Github release page](https://github.com/segmentio/aws-okta/releases) has binaries.
